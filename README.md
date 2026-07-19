@@ -10,6 +10,8 @@
 
 This project implements a deep CNN that classifies the 10 CIFAR-10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
+It is the companion code to the paper *"CNN Architecture Assessment: Exploring Depth, Width, and Kernel Size for Image Classification"* (**ERAMIA-RS 2025**).
+
 ## Network Architecture
 
 - **5 convolutional blocks** with increasing filters (32 → 64 → 128 → 256 → 512)
